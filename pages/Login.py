@@ -1,5 +1,5 @@
 import streamlit as st
-import oracledb
+
 import db
 
 if "user" not in st.experimental_get_query_params():
