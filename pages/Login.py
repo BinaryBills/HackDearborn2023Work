@@ -2,7 +2,7 @@ import oracledb
 import getpass
 
 user = "hlee3"
-dsn = "ocidbdemo_medium"
+dsn = "F1EGPPO9QB4YI0KX_high"
 pw = "DlGkS!2#4%6&8(0"
 wallet_pw = "DlGkS!2#4%6&8(0"
 
