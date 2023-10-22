@@ -1,8 +1,0 @@
-rt3xmta51qncgh1g_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g480a8dd39e3fd1_rt3xmta51qncgh1g_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
-
-rt3xmta51qncgh1g_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g480a8dd39e3fd1_rt3xmta51qncgh1g_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
-
-rt3xmta51qncgh1g_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g480a8dd39e3fd1_rt3xmta51qncgh1g_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
-
-
-
