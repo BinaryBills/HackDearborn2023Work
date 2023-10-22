@@ -116,7 +116,7 @@ def participant_form():
 account_tab, login_tab = st.tabs(["Create Account", "Login"])
 with login_tab:
 
-    if st.experimental_get_query_params()["users"][0] == "no":
+    if st.experimental_get_query_params()["user"][0] == "no":
 
         st.markdown("""<div class="emptyDiv"></div>""", unsafe_allow_html=True)
 
