@@ -9,7 +9,13 @@ with open("home.html") as p:
 with open("footer.html") as p:
     footer_html = p.read()
 
+
+
 st.markdown(f"""{home_html}""", unsafe_allow_html=True)
+
+left_co, cent_co,last_co = st.columns(3)
+with cent_co:
+    st.image("img/ai.png")
 
 st.markdown(f"""{footer_html}""", unsafe_allow_html=True)
 
