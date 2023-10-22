@@ -4,6 +4,9 @@ Submitted by: **Larnell Moore, Han Lee, Gurshabd Varaich, Jathushan Krishamohan*
 
 **Exelerate* is an analytical automation tool that seeks to plot data provided by the user and allow them to communicate with a GPT-POWERED AI Agent to ask questions about the data.
 
+## Instruction
+Install Python, streamlit and download FinalSourceCode/HackDearborn2023Work folder and run streamlit run Home.py command.
+
 ## Challenge
 
 The company had the challenge of lack of optimization of their business and developing new 
