@@ -3,7 +3,7 @@ import getpass
 import os
 
 
-user = "hlee3"
+user = "ADMIN"
 dsn = "f1egppo9qb4yi0kx_medium"
 pw = "DlGkS!2#4%6&8(0"
 wallet_pw = "DlGkS!2#4%6&8(0"
