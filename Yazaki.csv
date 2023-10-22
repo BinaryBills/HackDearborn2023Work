@@ -1,0 +1,70 @@
+PlantName,StateProvince,ManufacturingRegion,CountryName,Capacity,Usage,PreferredLogistics
+Plant 1,Dgo,Central,Mexico,88746,101478.2713,road
+Plant 2,CHI,North 2,Mexico,NULL,NULL,plane
+Plant 3,Nuevo Leon,Northeast,Mexico,NULL,NULL,road/plane
+Plant 4,Durango,Central,Mexico,164999.6763,125114.2832,road/plane
+Plant 5,Chiapas,Southeast,Mexico,97315.87725,188926.7407,plane
+Plant 6,Chihuahua,North 1,Mexico,148705.1173,208867.9267,road/plane
+Plant 7,COA,Northeast,Mexico,18651.53316,76511.74015,road
+Plant 8,Durango,Northeast,Mexico,NULL,NULL,plane
+Plant 9,Nuevo Leon,Northeast,Mexico,57246.9058,63879.9543,road/plane
+Plant 10,Sonora,Northwest,Mexico,150771.0823,138451.1357,road
+Plant 11,San Luis Potosi,Northeast,Mexico,23834.46364,36462.84571,plane
+Plant 12,CHS,Southeast,Mexico,25317.45,14806.723,plane
+Plant 13,MX,Southeast,United States,NULL,NULL,plane
+Plant 14,Chiapas,Southeast,Mexico,NULL,NULL,plane
+Plant 15,Chihuahua,North 2,Mexico,NULL,NULL,road/plane
+Plant 16,Leon,NI,Nicaragua,200101.1,197979.3184,boat
+Plant 17,Durango,Central,Mexico,NULL,NULL,plane
+Plant 18,Chihuahua,North 2,Mexico,NULL,NULL,road/plane
+Plant 19,Durango,Central,Mexico,59583.825,52147.90803,road
+Plant 20,Leon,NI,Nicaragua,227523.48,291233.3947,boat
+Plant 21,GTO,Bajio,Mexico,NULL,NULL,road
+Plant 22,Santa Ana,US,El Salvador,278000.4268,249691.9281,road
+Plant 23,Chihuahua,North 1,Mexico,78518.86583,43298.68909,plane
+Plant 24,Leon,NI,Nicaragua,390986.4,472204.4446,boat
+Plant 25,CHI,North 2,Mexico,NULL,NULL,road
+Plant 26,Chiapas,Southeast,Mexico,167080.8444,210410.8212,plane
+Plant 27,Jalisco,Southwest,Mexico,NULL,NULL,road/plane
+Plant 28,CHI,North 2,Mexico,80888.82048,82140.82523,road/plane
+Plant 29,MI,US,United States,NULL,NULL,road/plane
+Plant 30,CHI,COMBU,Mexico,NULL,NULL,road/plane
+Plant 31,Chiapas,Southeast,Mexico,45579.77083,53684.99332,road/plane
+Plant 32,Sonora,North 1,Mexico,199286.8282,214961.0208,road/plane
+Plant 33,San Luis Potosi,Northeast,Mexico,31394.2755,25247.5746,road/plane
+Plant 34,Durango,Northeast,Mexico,NULL,NULL,road/plane
+Plant 35,Durango,COMBU,Mexico,NULL,NULL,road/plane
+Plant 36,Coahuila,La Laguna ,Mexico,275232.7009,177928.6782,road/plane
+Plant 37,Sonora,Juarez,Mexico,NULL,NULL,road
+Plant 38,Leon,NI,Nicaragua,NULL,NULL,boat
+Plant 39,Chihuahua,North 1,Mexico,NULL,NULL,road/plane
+Plant 40,DGO,Central,Mexico,77060.01792,78991.52297,road
+Plant 41,Chihuahua,North 1,Mexico,163960.519,99245.26831,road/plane
+Plant 42,San Luis Potosi,Northeast,Mexico,64010.42,53679.05966,road/plane
+Plant 43,Nuevo Leon,Northeast,Mexico,NULL,NULL,road
+Plant 44,Sonora,Northwest,Mexico,124703.0503,129270.1046,plane
+Plant 45,Colima,Southwest,Mexico,142342.2,159132.5164,plane
+Plant 46,Nuevo Leon,Northeast,Mexico,NULL,NULL,plane
+Plant 47,Durango,Central,Mexico,NULL,NULL,plane
+Plant 48,Chihuahua,North 2,Mexico,NULL,NULL,road/plane
+Plant 49,SON,Northwest,Mexico,177040.3698,152921.8327,road
+Plant 50,Durango,COMBU,Mexico,NULL,NULL,road/plane
+Plant 51,Leon,NI,Nicaragua,124692,231561.4758,road/plane
+Plant 52,Sonora,Northwest,Mexico,242484.783,232878.0507,road/plane
+Plant 53,San Luis Potosi,Northeast,Mexico,111999.6935,124961.8282,road/plane
+Plant 54,Chiapas,Southeast 2,Mexico,NULL,NULL,road/plane
+Plant 55,Durango,Northwest,Mexico,288388.2344,223814.6388,road
+Plant 56,San Marcos,US,Guatemala,0,73010.23325,boat
+Plant 57,Chihuahua,North 2,Mexico,NULL,NULL,road/plane
+Plant 58,COL,Southwest,Mexico,216086.25,265426.0036,road
+Plant 59,Chihuahua,North 1,Mexico,40003.7636,45561.59748,road
+Plant 60,,NI,Nicaragua,407550,586707.964,boat
+Plant 61,DGO,Central,Mexico,55582.99344,51076.72926,road
+Plant 62,Durango,Northeast,Mexico,NULL,NULL,plane
+Plant 63,CHI,North 2,Mexico,NULL,NULL,road/plane
+Plant 64,Chihuahua,North 1,Mexico,85331.45633,92253.81077,road
+Plant 65,Durango,Northwest,Mexico,240257.2325,366083.4943,road/plane
+Plant 66,TN,US,United States,NULL,NULL,road/plane
+Plant 67,Chihuahua,North 2,Mexico,81241.44336,110648.2629,road
+Plant 68,CHS,Southeast 2,Mexico,120760.4265,178341.9896,road/plane
+Plant 69,CHI,North 2,Mexico,NULL,NULL,road/plane
