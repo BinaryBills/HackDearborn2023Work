@@ -12,6 +12,7 @@ def check_form_for_blanks(form_list):
             if text_value == "":
                 return True
     return False
+"""
 
 def check_form_requirements(participant_values, seller_values, user_type):
 
@@ -62,7 +63,7 @@ def check_form_requirements(participant_values, seller_values, user_type):
         successful_account = False
 
     return successful_account
-
+"""
 account_tab, login_tab = st.tabs(["Create Account", "Login"])
 
 def login(email, login):
@@ -88,7 +89,7 @@ def login(email, login):
             st.experimental_set_query_params(user="buyer", email=user_email)
 
         st.write("You are logged in")
-
+"""
 def seller_account_form():
 
     seller_values = {}
@@ -111,7 +112,7 @@ def participant_form():
     participant_values["password"]  = st.text_input("Password (Between 13 and 25 characters with 1 capital letter, 1 lowercase letter, 1 number, 1 special character)", placeholder="Type a good password here", type="password")
 
     return participant_values
-
+"""
 account_tab, login_tab = st.tabs(["Create Account", "Login"])
 with login_tab:
 
