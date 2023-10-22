@@ -33,7 +33,7 @@ h1 {
 
 /* Multicolor bar at top */
 .css-1dp5vir{
-    background-image: linear-gradient(90deg, hsl(165, 70%, 42%), hsl(165, 70%, 42%));
+    #background-image: linear-gradient(90deg, hsl(165, 70%, 42%), hsl(165, 70%, 42%));
 }
 
 /* Nav bar pages font */
