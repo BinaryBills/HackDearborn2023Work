@@ -1,7 +1,7 @@
 import oracledb
 import getpass
 
-user = "admin"
+user = "hlee3"
 dsn = "ocidbdemo_high"
 pw = getpass.getpass(f"Enter password for {user}: ")
 wallet_pw = getpass.getpass("Enter wallet password for the database: ")
